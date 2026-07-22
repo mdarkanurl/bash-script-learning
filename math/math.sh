@@ -1,4 +1,4 @@
-\\#!/bin/bash
+#!/bin/bash
 
 expr 7 + 2
 expr 30 / 10
